@@ -1,0 +1,30 @@
+#player,#player a{ color:#FB88BE; font-size: 11px; font-family: verdana; text-transform:normal; } 
+#player{ background:url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); background-position:bottom; background-color: transparent;}
+#player .mainImage{ background:url(http://static.tumblr.com/su8juwr/17Jn0sz3n/miniskinpreto.png); }
+
+#player #baseLeft{ width:93px; } 
+#player #baseRight{ width:145px;}  
+#player .button{  width:26px; }
+#player #play{ background:url(http://static.tumblr.com/su8juwr/JmBn0sxx3/minipausar.png); }
+#player #play,#player #pause{ left:0px; }
+#player #previous{ left:26px; } 
+#player #next{ left:42px; }
+#player #title{ left:100px;  font-size: 9px; }
+#player #tooltip{ right:565555px; }    
+#player #timer{ right:5555555px;  } 
+#player #list{ right:1270px; }    
+ 
+#player #seeker{ right:8888888888888888888888px; }  
+#player #seekerBase{ border-color:transparent;  } 
+#player #seekerBuffered{ background-color:transparent ; }  
+#player #seekerSliderBase{ background-color:transparent; } 
+
+#player #volume{ width:8888888px; right:8888888px; } 
+#player #volumeSlider{ width:777777px; background:url(); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:transparent;}
+#playlist .module{  color:#FB88BE; background-color:transparent; }
+#playlist h3{ background:url(http://static.tumblr.com/su8juwr/PJnn0r57o/ski.png); color:transparent; background-color:transparent;  }
+#playlist .even{background-color:transparent;}
+#playlist .odd{ background-color:transparent;} 
+#playlist .focus{ background-color:#bebebe; color:#FB88BE;} 
